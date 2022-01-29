@@ -21,3 +21,4 @@ product['discount'] = input('ввидите процент скидки ')
 
 print('Товар: ', product)
 print(discounted(product['price'], product['discount']))
+print('Отличная работа!')
